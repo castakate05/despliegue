@@ -1,0 +1,22 @@
+.contenedor{
+    font-size: 2rem;
+    color: rgb(87, 98, 99);
+    align-content: center;
+}
+body{
+    background: rgb(119, 198, 201);
+    width: 680px;
+    height: 1024px;
+}
+.contenedor-1{
+    font-size: 1,2rem;
+    color: rgb(95, 107, 160);
+    font-family: 'Times New Roman', Times, serif;
+    align-content: normal;
+    
+}
+footer
+    {
+
+    }
+    
